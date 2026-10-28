@@ -1,0 +1,8 @@
+raw_dir: "data/raw"
+model_name: "xlm-roberta-base"
+seed: 42
+max_length: 160
+train_batch_size: 16
+eval_batch_size: 16
+num_epochs: 4
+lr: 2e-5
